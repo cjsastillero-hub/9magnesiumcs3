@@ -18,7 +18,7 @@ if zodiac_year > 1899:
     print(f"Congrats! Your Chinese Zodiac Sign is {zodiacs[index_of_the_zodiac]}!")
     print("Thank you for your time!")
 else:
-    print("Unfortunatly, we only accept birth years that are in the 1900s onward. Please try again!")
+    print("Unfortunately, we only accept birth years that are in the 1900s onward. Please try again!")
 ```
 ## Documentation
 
