@@ -1,2 +1,6 @@
-# 9magnesiumcs3
-# Christine Joyce S Astillero_ 9 Magnesium
+# Computer Science 3 Portfolio
+## Student Information
+**Name:** Christine Joyce S. Astillero
+**Section:** 9-Magnesium
+
+# Quarter 1
