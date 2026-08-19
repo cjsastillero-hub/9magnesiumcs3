@@ -15,4 +15,4 @@
 
 [View my Computational Thinking Exercise](q1/ctskillsMagnesiumAstillero.md) 
 
-[View my Computational Thinking Exercise](q1/zodiacMagnesiumAstillero.md)
+[View my Chinese Zodiac Sign Output](q1/zodiacMagnesiumAstillero.md)
