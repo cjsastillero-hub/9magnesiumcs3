@@ -26,6 +26,7 @@ The system is very time consuming and is prone to human errors because most of t
 ### Selected Sub-Problem
 Calculating Manually
 ### Pseudocode
+``` Python
 START
 
 no_of_dishes = int(input("what is the number of dishes/foods that you wish to sell?"))
@@ -74,4 +75,5 @@ def main():
 main()
 
 END
+```
 ---
