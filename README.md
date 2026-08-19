@@ -14,3 +14,4 @@
 ### Computational Thinking Skills
 
 [View my Computational Thinking Exercise](q1/ctskillsMagnesiumAstillero.md) 
+[View my Computational Thinking Exercise](q1/zodiacMagnesiumAstillero.md)
