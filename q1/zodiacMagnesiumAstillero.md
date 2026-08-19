@@ -22,4 +22,4 @@ else:
 ```
 ## Documentation
 
-![Zodiac_Ouput_Screenshot](image.png)
+![Zodiac_Ouput_Screenshot](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/Screenshot%202026-08-19%20191446.png)
