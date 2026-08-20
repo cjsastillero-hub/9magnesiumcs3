@@ -15,6 +15,10 @@
 
 [View my Computational Thinking Exercise](q1/ctskillsMagnesiumAstillero.md) 
 
+### Chinese Zodiac
+
 [View my Chinese Zodiac Sign Output](q1/zodiacMagnesiumAstillero.md)
+
+### ILA OOP
 
 [View my Ila OOP Output](q1/ila_oop.md)
