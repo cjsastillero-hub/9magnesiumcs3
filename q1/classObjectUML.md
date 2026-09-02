@@ -20,7 +20,7 @@
 |loopsong(numberofloops:int)| a method that asks how many times the song will be looped for|
 
 ## Class Diagram
-![Class Diagram](q1/0193a7db-0421-4a6d-a7f7-500c64b5042e.jpg)
+[Class Diagram](q1/0193a7db-0421-4a6d-a7f7-500c64b5042e.jpg)
 ## Design Explanation
 ### Why did you choose this class?
 i chose this class because i have an interest in music or rather in pop music, i also found creating data fiels and methods fun especially since the context i chose has certain attributes that are easy to take inspiration from.
