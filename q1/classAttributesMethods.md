@@ -31,7 +31,7 @@ Changes from my previous design:
 [View Python Source](classImplementation.py)
 
 ## Test Run
-![Test Run](images/classTestRun.png)
+![Test Run](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classTestRun.png.png)
 
 ## Object Diagram
 ![Object Diagram](images/objectDiagram.png)
