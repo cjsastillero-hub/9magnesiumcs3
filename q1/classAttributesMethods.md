@@ -34,7 +34,7 @@ Changes from my previous design:
 ![Test Run](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classTestRun.png.png)
 
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+![Object Diagram](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/objectDiagram.png.jpg)
 
 ## Analysis
 ### Why did you make your chosen attribute private?
