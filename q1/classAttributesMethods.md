@@ -25,7 +25,7 @@ Changes from my previous design:
 |singer         |string     |public      |it gives the user proper context on who sang the song, as it could be a song cover |
 
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classDiagramSG5.png.jpg)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
