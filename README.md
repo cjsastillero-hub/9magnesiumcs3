@@ -29,3 +29,6 @@
 
 ### OOP Act II
 [View my classAttributesMethods Output](q1/classAttributesMethods.md)
+
+### OOP Act III
+[View my classRelationships Output](q1/classRelationships.md)
