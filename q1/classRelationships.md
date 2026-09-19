@@ -27,7 +27,7 @@ Explanation: Many objects can be related to the new class due to the fact that t
 ![Class Relationship Diagram](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/classRelationshipDiagram.jpg)
 
 ## Python Implementation
-[View Python Source](classRelationships.py)
+[View Python Source](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classRelationships.py)
 
 ## Test Run
 ![Relationship Test Run](images/relationshipTestRun.png)
