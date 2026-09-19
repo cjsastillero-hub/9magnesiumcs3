@@ -24,7 +24,7 @@ Multiplicity: One-to-Many
 Explanation: Many objects can be related to the new class due to the fact that there are countless songs from varying genres that were composed in the span of a long time.
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/classRelationshipDiagram.jpg)
 
 ## Python Implementation
 [View Python Source](classRelationships.py)
