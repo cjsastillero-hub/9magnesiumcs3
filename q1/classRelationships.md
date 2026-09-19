@@ -4,7 +4,7 @@
 ## Date: 9/19/2026
 ## School Year: 2026-2027
 ## Previous Work
-[Part I - Classes and Objects](classObjectUML.md)
+[Part I - Classes and Objects](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classObjectUML.md)
 
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 ## Existing Class
