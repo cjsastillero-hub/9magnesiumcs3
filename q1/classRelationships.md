@@ -5,6 +5,7 @@
 ## School Year: 2026-2027
 ## Previous Work
 [Part I - Classes and Objects](classObjectUML.md)
+
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 ## Existing Class
 Class: Pop Songs
