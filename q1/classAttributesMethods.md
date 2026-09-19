@@ -28,7 +28,7 @@ Changes from my previous design:
 ![Class Diagram](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/classDiagramSG5.jpg)
 
 ## Python Implementation
-[View Python Source](classImplementation.py)
+[View Python Source](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classImplementation.py)
 
 ## Test Run
 ![Test Run](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/classTestRun.png)
