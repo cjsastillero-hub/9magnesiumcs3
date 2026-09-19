@@ -6,7 +6,7 @@
 ## Previous Work
 [Part I - Classes and Objects](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classObjectUML.md)
 
-[Part II - Class Attributes and Methods](classAttributesMethods.md)
+[Part II - Class Attributes and Methods](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classAttributesMethods.md)
 ## Existing Class
 Class: Pop Songs
 Description: A class that represents or stores all kind of given pop songs.
