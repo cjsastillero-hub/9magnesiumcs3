@@ -7,7 +7,7 @@
 
 ## Previous Design
 Link to my previous activity:
-[classObjectUML.md](classObjectUML.md)
+[classObjectUML.md](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classObjectUML.md)
 
 ## Design Revision
 Changes from my previous design:
