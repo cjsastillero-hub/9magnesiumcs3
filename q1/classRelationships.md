@@ -37,7 +37,7 @@ Explanation: Many objects can be related to the new class due to the fact that t
 ![Relationship Test Run Part 3](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/relationshipTestRun3.png)
 
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/objectRelationshipDiagram.jpg)
 
 ## Analysis
 ### What is the association between your two classes?
