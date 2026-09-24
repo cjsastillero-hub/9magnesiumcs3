@@ -34,7 +34,8 @@ Why? Since the object singer can be stored inside an object from Pop_Songs. Even
 [Source Code](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/advancedRelationships.py)
 
 ## Test Run
-![Test](images/advancedTestRun.png)
+![Test](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/advancedTestRun1.png)
+![Test]()
 
 ## Object Diagram
 ![Objects](images/advancedObjectDiagram.png)
