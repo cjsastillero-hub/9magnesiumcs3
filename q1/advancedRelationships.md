@@ -17,7 +17,7 @@ Child: Pop_Songs
 Explanation: The Singer is a parent class because it is a generalized term, and the attribute that the child class will inheret is the attribute called singer. The extra attributes of the child will be based on the inherited trait such as the collaborator and the title of the song made by the chosen singer.
 
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/inheritanceDiagram.jpg)
 
 ## Composition/Aggregation
 Relationship: Aggregation (weak HAS-A relationship)
