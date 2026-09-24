@@ -32,3 +32,6 @@
 
 ### OOP Act III
 [View my classRelationships Output](q1/classRelationships.md)
+
+### OOP Act IV
+[View my advancedRelationships Output](q1/advancedRelationships.md)
