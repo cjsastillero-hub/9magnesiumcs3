@@ -35,7 +35,7 @@ Why? Since the object singer can be stored inside an object from Pop_Songs. Even
 
 ## Test Run
 ![Test](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/advancedTestRun1.png)
-![Test]()
+![Test](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/advancedTestRun2.png)
 
 ## Object Diagram
 ![Objects](images/advancedObjectDiagram.png)
