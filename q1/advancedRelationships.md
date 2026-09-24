@@ -39,7 +39,7 @@ Why? Since the object singer can be stored inside an object from Pop_Songs. Even
 
 ## Object Diagram
 ![Objects](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/advancedObjectDiagram1.jpg)
-![Objects]()
+![Objects](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/advancedObjectDiagram2.jpg)
 
 ## Reflection
 Answer in 3–5 sentences each.
