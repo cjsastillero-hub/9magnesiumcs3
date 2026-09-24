@@ -31,7 +31,7 @@ Why? Since the object singer can be stored inside an object from Pop_Songs. Even
 ![Advanced UML](images/advancedClassDiagram.png)
 
 ## Python Implementation
-[Source Code](advancedRelationships.py)
+[Source Code](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/advancedRelationships.py)
 
 ## Test Run
 ![Test](images/advancedTestRun.png)
