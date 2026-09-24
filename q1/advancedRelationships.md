@@ -5,7 +5,7 @@
 ## School Year : 2026-2027
 
 ## Previous Activities
-[classAttrib](classAttributesMethods.md)
+[classAttrib](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classAttributesMethods.md)
 [classRel](classRelationships.md)
 
 ## Existing System Description:
