@@ -6,7 +6,7 @@
 
 ## Previous Activities
 [classAttrib](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classAttributesMethods.md)
-[classRel](classRelationships.md)
+[classRel](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/classRelationships.md)
 
 ## Existing System Description:
 The classes that already exist in my system are Song_Compiler and Pop_Songs. The limitation that i can think of is unclear ownership. Once i analyzed the classes i realized that it is suitable for association but not inheritance. Since i used a list, i couldn't find a concrete attribute that a child class can inheret, i also found it hard to determine a parent class that could have an attribute that is suitable for inheritance. I also realized that the attributes are not suitable for Aggregation or rather there is no class where you can create an object and utilize that object to store in another.
