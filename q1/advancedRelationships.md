@@ -28,7 +28,7 @@ Contained object: Singer
 Why? Since the object singer can be stored inside an object from Pop_Songs. Even though Singer is the parent class, it can still act as the contained object because it will already be created before it is cotained and it won't be unaffected or also removed once the object that is containing is deleted.
 
 ## Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/images/advancedClassDiagram.jpg)
 
 ## Python Implementation
 [Source Code](https://github.com/cjsastillero-hub/9magnesiumcs3/blob/main/q1/advancedRelationships.py)
