@@ -35,3 +35,8 @@
 
 ### OOP Act IV
 [View my advancedRelationships Output](q1/advancedRelationships.md)
+
+# Quarter 2 Activities
+
+### Encapsulation SG8
+[View my Encapsulation Output](q2/sg8_encapsulation.py)
