@@ -40,3 +40,6 @@
 
 ### Encapsulation SG8
 [View my Encapsulation Output](q2/sg8_encapsulation.py)
+
+### Overriding SG10
+[View my Overriding Output](q2/sg10_overriding.py)
