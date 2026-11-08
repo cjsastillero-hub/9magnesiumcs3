@@ -1,3 +1,9 @@
+# SG 9: Inheritance
+## Name: Christine Joyce S. Astillero
+## Section: 9 - Magnesium
+## Date : 11/8/2026
+## School Year: 2026-2027
+
 class Publication:
     def __init__(self, title, author):
         self.__title = title
