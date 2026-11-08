@@ -42,7 +42,7 @@
 [View my Encapsulation Output](q2/sg8_encapsulation.py)
 
 ### Inheritance SG9
-[View my Inheritance Output](q2/sg9_Inheritance.py)
+[View my Inheritance Output](q2/sg9_inheritance.py)
 
 ### Overriding SG10
 [View my Overriding Output](q2/sg10_overriding.py)
