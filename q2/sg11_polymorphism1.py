@@ -1,3 +1,9 @@
+# SG 11: Polymorphism 
+## Name: Christine Joyce S. Astillero
+## Section: 9 - Magnesium
+## Date: 11/18/2026
+## School Year: 2026-2027
+
 class Patient:
     def __init__(self, name, bill_amount):
         self.__name = name
