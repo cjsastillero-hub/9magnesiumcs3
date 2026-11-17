@@ -1,0 +1,71 @@
+class Patient:
+    def __init__(self, name, bill_amount):
+        self.__name = name
+        self.__bill_amount = bill_amount
+
+    @property
+    def name(self):
+        return self.__name
+    @property
+    def bill_amount(self):
+        return self.__bill_amount
+
+    def get_name(self):
+        return self.__name
+    def set_name(self, name):
+        self.__name = name
+    def get_bill_amount(self):
+        return f"{self.__bill_amount:.2f}"
+    def set_bill_amount(self, bill_amount):
+        if bill_amount > 0:
+            self.__bill_amount = bill_amount
+        else:
+            print("The bill amount must be a positive value. Please input a valid bill amount.")
+    def calculate_bill(self):
+        return f"{self.__bill_amount:.2f}"
+    def display_patient_type(self):
+        return "Regular Patient"
+
+class Senior_Patient(Patient):
+
+    def calculate_bill(self):
+        discount = self.bill_amount * 0.2
+        discounted_bill = self.bill_amount - discount
+        return f"{discounted_bill:.2f}"
+    
+    def display_patient_type(self):
+        return "Senior Citizen"
+
+class PhilHealth_Patient(Patient):
+
+    def calculate_bill(self):
+        discount = self.bill_amount * 0.15
+        discounted_bill = self.bill_amount - discount
+        return f"{discounted_bill:.2f}"
+
+    def display_patient_type(self):
+        return "PhilHealth Member"
+
+patient1 = Patient("Juan Dela Cruz", 15000.00)
+patient2 = Senior_Patient("Maria Santos", 15000.00)
+patient3 = PhilHealth_Patient("Pedro Reyes", 15000.00)
+
+
+print("Hospital Billing System")
+print("-------------------------")
+print(f"Patient Name: {patient1.get_name()}")
+print(f"Patient Type: {patient1.display_patient_type()}")
+print(f"Original Bill: {patient1.get_bill_amount()}")
+print(f"Final Bill: {patient1.calculate_bill()}")
+print(" ")
+
+print(f"Patient Name: {patient2.get_name()}")
+print(f"Patient Type: {patient2.display_patient_type()}")
+print(f"Original Bill: {patient2.get_bill_amount()}")
+print(f"Final Bill: {patient2.calculate_bill()}")
+print(" ")
+
+print(f"Patient Name: {patient3.get_name()}")
+print(f"Patient Type: {patient3.display_patient_type()}")
+print(f"Original Bill: {patient3.get_bill_amount()}")
+print(f"Final Bill: {patient3.calculate_bill()}")
