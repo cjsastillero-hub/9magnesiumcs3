@@ -27,9 +27,10 @@ car1 = Car()
 boat1 = Boat()
 drone1 = Drone()
 
-start_trip(car1)
-start_trip(boat1)
-start_trip(drone1)
+vehicles = [car1, boat1, drone1]
+
+for vehi in vehicles:
+    start_trip(vehi)
 
 ```
 
