@@ -34,4 +34,4 @@ start_trip(drone1)
 ```
 
 
-3. The code in 2.2 demonstrates polymorphism by having methods 
+3. The code in 2.2 demonstrates polymorphism by having methods that have the same name that produces different outputs and is created without the help of a parent class. the function recognizes these similar methods but different outcomes so it lets the objects be put into the same category and it lets the created objects be utilized into the code of the function.
