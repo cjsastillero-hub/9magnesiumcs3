@@ -51,4 +51,4 @@
 [View my Polymorphism Activity 1 Output](q2/sg11_polymorphism1.py)
 
 ### Polymorphism SG11 Activity 2
-[View my Polymorphism Activity 2 Output](q2/sg11_polymorphism2)
+[View my Polymorphism Activity 2 Output](q2/sg11_polymorphism2.md)
